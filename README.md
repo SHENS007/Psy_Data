@@ -1,2 +1,2 @@
 # Psy_Gong
-data from experiment
+These data is from psychological experiment and still in testing, DON'T USE IT PLEASE!
